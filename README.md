@@ -2,7 +2,7 @@
 Elementary school teacher data management tool. Specifically, Tally would organize data on a child's progress from worksheets and readings.
 
 # Problem
-My wife is a 3rd-grade teacher and she struggles to track and measure the progress of each child. Currently, she uses google docs and has to write in every word the child misread and every score from assignments she gives. This takes her hours to input the information and then to find/query info is extremely frustrating. She currently spends $20 a weeks for random things she thinks will make her more efficient. So, there is a dollar value to her time.
+My wife is a 3rd-grade teacher and she struggles to track and measure the progress of each child. Currently, she uses google docs and has to write in every word the child misread and every score from assignments she gives. This takes her hours to input the information and then to find/query info is extremely frustrating. If we could save even 1 hour a week of her time it would equate at least $80 a month (based on hourly pay). 
 
 # Solution
 We create a simple app that stores and organizes student data and then creates query options that will help her make better decisions. 
@@ -41,6 +41,6 @@ A free app with a paid version that includes data analytics and learning algorit
 # Legal
 Privacy: We can use fake data for the class and then simply have a terms and services agreement.
 
-Business: Ideas usually are worth nothing. We could use the startup method of "slicing the pie" if people want to actually pursue this otherwise it will just be a school project.
+Business: Ideas usually are worth nothing. If people actually want to pursue this then we could use the startup method of "slicing the pie" and then vesting to divide ownership, but it will probably just be a school project.
 
 
