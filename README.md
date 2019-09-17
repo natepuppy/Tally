@@ -16,7 +16,7 @@ We can build an MVP with a limited feature set pretty easily and get a good grad
 # Team
 3 people
 
-# Tech stack
+# Technical
 
 Relational Database Options
 mySQL
@@ -27,9 +27,20 @@ Severless (Google firebase or AWS)
 Frontend Options
 React native (Works on iOS or Android) or React, iOS and Android (each team member will take one front end option)
 
+Entities:
+- Worksheets
+- Readings
+- Students
+- Teachers
+- Curriculum
+
+
 # Business
-A free app with a paid version that includes data analytics and learning algorithms.
+A free app with a paid version that includes data analytics and learning algorithms. I think this kind of data will be important in the future of A.I.
 
 # Legal
-Ideas usually are worth nothing. We could use startup method of "slicing the pie" if people want to actually pursue this otherwise it will just be a school project.
-# Business
+Privacy: We can use fake data for the class and then simply have a terms and services agreement.
+
+Business: Ideas usually are worth nothing. We could use the startup method of "slicing the pie" if people want to actually pursue this otherwise it will just be a school project.
+
+
