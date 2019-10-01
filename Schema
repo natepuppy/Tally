@@ -1,0 +1,13 @@
+School (SchoolID, Name, Address)
+Teacher (TeacherID, Grade, Age, FirstName, LastName, VideoLinks, SchoolID, CurriculumID)
+  Foreign Key SchoolID references School
+  Foreign Key CurriculumID references Curriculum
+Student (StudentID, FirstName, LastName, TeacherID, SchoolID, CurriculumID) 
+  Foreign Key TeacherID references Teacher
+  Foreign Key SchoolID references School
+  Foreign Key CurriculumID references Curriculum
+Curriculum (CurriculumID, Grade) 
+Worksheet (WorksheetID, ImageLink, WorksheetName, Score, SubjectID)
+  Foreign Key SubjectID references Subject
+Subject (SubjectID, CurriculumID)
+  Foreign Key CurriculumID references Curriculum
